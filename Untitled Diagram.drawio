@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-28T23:50:09.428Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="3gb4vX4myr7nzFFxUtpu" version="12.3.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-28T23:55:27.470Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="s1_egDzDXSfm4EoBVS3y" version="12.3.3" type="github" pages="2">
   <diagram id="tEUZ7eTgIlQmSOjJ-7Xw" name="Page-1">
     <mxGraphModel dx="1026" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,56 +143,14 @@
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-7" value="PO / SM" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-0">
           <mxGeometry y="140" width="760" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-7" source="l15D3FRKEXwRDgA3ZpKB-9" target="l15D3FRKEXwRDgA3ZpKB-11">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-9" value="SM and Dev Team Estimate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-7">
-          <mxGeometry x="50" y="30" width="100" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-7" source="l15D3FRKEXwRDgA3ZpKB-11" target="l15D3FRKEXwRDgA3ZpKB-13">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-11" value="PO Approve Product Backlog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-7">
-          <mxGeometry x="190" y="30" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-7" source="l15D3FRKEXwRDgA3ZpKB-13" target="l15D3FRKEXwRDgA3ZpKB-15">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-13" value="IT Filter and Estimate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-7">
-          <mxGeometry x="350" y="30" width="90" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-7" source="l15D3FRKEXwRDgA3ZpKB-15" target="l15D3FRKEXwRDgA3ZpKB-16">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-15" value="Agree on Sprint Backlog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-7">
-          <mxGeometry x="490" y="30" width="100" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-16" value="Raise ITSR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-7">
-          <mxGeometry x="640" y="30" width="100" height="60" as="geometry"/>
+        <mxCell id="l15D3FRKEXwRDgA3ZpKB-9" value="SM Estimate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-7">
+          <mxGeometry x="75" y="30" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-17" value="Dev Team" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-0">
           <mxGeometry y="260" width="760" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-17" source="l15D3FRKEXwRDgA3ZpKB-19" target="l15D3FRKEXwRDgA3ZpKB-21">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-19" value="New PC Case/ Email/ Verbal Request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-17">
-          <mxGeometry x="50" y="30" width="100" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-17" source="l15D3FRKEXwRDgA3ZpKB-21" target="l15D3FRKEXwRDgA3ZpKB-23">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-21" value="Discuss with PO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-17">
-          <mxGeometry x="190" y="30" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-17" source="l15D3FRKEXwRDgA3ZpKB-23" target="l15D3FRKEXwRDgA3ZpKB-24">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-23" value="Raise ITSR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-17">
-          <mxGeometry x="350" y="30" width="90" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-24" value="Start Agile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-17">
-          <mxGeometry x="490" y="30" width="100" height="60" as="geometry"/>
+        <mxCell id="l15D3FRKEXwRDgA3ZpKB-19" value="Dev Team Estimate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-17">
+          <mxGeometry x="75" y="30" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-25" value="ITBA / PM" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-0">
           <mxGeometry y="380" width="760" height="180" as="geometry"/>
@@ -201,22 +159,25 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-27" value="Submit ITSR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-25">
-          <mxGeometry x="50" y="46" width="100" height="60" as="geometry"/>
+          <mxGeometry x="75" y="46" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-25" source="l15D3FRKEXwRDgA3ZpKB-29" target="l15D3FRKEXwRDgA3ZpKB-31">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-29" value="Get Estimate from IT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-25">
-          <mxGeometry x="190" y="46" width="120" height="60" as="geometry"/>
+        <mxCell id="l15D3FRKEXwRDgA3ZpKB-29" value="Go to PMO&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-25">
+          <mxGeometry x="350" y="46" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-25" source="l15D3FRKEXwRDgA3ZpKB-31" target="l15D3FRKEXwRDgA3ZpKB-32">
+        <mxCell id="l15D3FRKEXwRDgA3ZpKB-31" value="Put in Product Backlog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-25">
+          <mxGeometry x="550" y="46" width="90" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="l15D3FRKEXwRDgA3ZpKB-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-0" source="l15D3FRKEXwRDgA3ZpKB-3" target="l15D3FRKEXwRDgA3ZpKB-9">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-31" value="PO will decide for Product Backlog priority" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-25">
-          <mxGeometry x="350" y="46" width="90" height="60" as="geometry"/>
+        <mxCell id="Ec0-ryW4HG9SLYHXsrlI-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-0" source="l15D3FRKEXwRDgA3ZpKB-9" target="l15D3FRKEXwRDgA3ZpKB-19">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-32" value="Submit ITSR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-25">
-          <mxGeometry x="490" y="46" width="100" height="60" as="geometry"/>
+        <mxCell id="Ec0-ryW4HG9SLYHXsrlI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-0" source="l15D3FRKEXwRDgA3ZpKB-19" target="l15D3FRKEXwRDgA3ZpKB-27">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-33" value="Agile OCM" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="v0TRMTM9oVVGrzGvH2Xm-1">
           <mxGeometry x="23" y="27" width="80" height="20" as="geometry"/>
