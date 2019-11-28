@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-28T23:39:17.274Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="skyO4D0Ho2VoyLij5jKH" version="12.3.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-28T23:44:38.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="NOXuPyLqHNEPIAhavbFX" version="12.3.3" type="github" pages="2">
   <diagram id="tEUZ7eTgIlQmSOjJ-7Xw" name="Page-1">
     <mxGraphModel dx="1026" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
       <root>
         <mxCell id="v0TRMTM9oVVGrzGvH2Xm-0"/>
         <mxCell id="v0TRMTM9oVVGrzGvH2Xm-1" parent="v0TRMTM9oVVGrzGvH2Xm-0"/>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-0" value="Current - Project Initiation / PMO Approval&amp;nbsp;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="v0TRMTM9oVVGrzGvH2Xm-1">
+        <mxCell id="l15D3FRKEXwRDgA3ZpKB-0" value="To be - Project Initiation / PMO Approval&amp;nbsp;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="v0TRMTM9oVVGrzGvH2Xm-1">
           <mxGeometry x="30" y="100" width="760" height="560" as="geometry"/>
         </mxCell>
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-1" value="GWM" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-0">
@@ -225,8 +225,8 @@
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-34" value="&lt;span style=&quot;font-weight: bold&quot;&gt;Project Initiation / PMO Approval&amp;nbsp;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="v0TRMTM9oVVGrzGvH2Xm-1">
           <mxGeometry x="24" y="48" width="210" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-35" value="Current" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="v0TRMTM9oVVGrzGvH2Xm-1">
-          <mxGeometry x="25" y="69" width="60" height="20" as="geometry"/>
+        <mxCell id="l15D3FRKEXwRDgA3ZpKB-35" value="To Be" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="v0TRMTM9oVVGrzGvH2Xm-1">
+          <mxGeometry x="27" y="69" width="50" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
