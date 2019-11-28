@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-28T23:44:38.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="NOXuPyLqHNEPIAhavbFX" version="12.3.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-28T23:47:37.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="k-CYUMK1VHDRKHKupCbS" version="12.3.3" type="github" pages="2">
   <diagram id="tEUZ7eTgIlQmSOjJ-7Xw" name="Page-1">
     <mxGraphModel dx="1026" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,14 +123,14 @@
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-0" value="To be - Project Initiation / PMO Approval&amp;nbsp;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="v0TRMTM9oVVGrzGvH2Xm-1">
           <mxGeometry x="30" y="100" width="760" height="560" as="geometry"/>
         </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-1" value="GWM" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-0">
+        <mxCell id="l15D3FRKEXwRDgA3ZpKB-1" value="Requestor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-0">
           <mxGeometry y="20" width="760" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-1" source="l15D3FRKEXwRDgA3ZpKB-3" target="l15D3FRKEXwRDgA3ZpKB-5">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-3" value="Submit ITSR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-1">
-          <mxGeometry x="50" y="30" width="100" height="60" as="geometry"/>
+        <mxCell id="l15D3FRKEXwRDgA3ZpKB-3" value="Discuss with PO and SM for new project / enhancement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-1">
+          <mxGeometry x="50" y="30" width="150" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-1" source="l15D3FRKEXwRDgA3ZpKB-5" target="l15D3FRKEXwRDgA3ZpKB-6">
           <mxGeometry relative="1" as="geometry"/>
@@ -141,7 +141,7 @@
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-6" value="PMO Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-1">
           <mxGeometry x="410" y="30" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="l15D3FRKEXwRDgA3ZpKB-7" value="LB" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-0">
+        <mxCell id="l15D3FRKEXwRDgA3ZpKB-7" value="Subject Matter" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-0">
           <mxGeometry y="140" width="760" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l15D3FRKEXwRDgA3ZpKB-7" source="l15D3FRKEXwRDgA3ZpKB-9" target="l15D3FRKEXwRDgA3ZpKB-11">
