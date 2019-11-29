@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-29T05:45:15.981Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="f1Kv64g_NIbd1k34Ua1Q" version="12.3.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-29T05:46:11.629Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="wscvWr6um09qK6hQTmIz" version="12.3.3" type="github" pages="3">
   <diagram id="tEUZ7eTgIlQmSOjJ-7Xw" name="Page-1">
     <mxGraphModel dx="1038" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
         <mxCell id="J8Esnln-tezF01G17k3_-0"/>
         <mxCell id="J8Esnln-tezF01G17k3_-1" parent="J8Esnln-tezF01G17k3_-0"/>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-0" value="To Be - Requirement Gathering &amp;amp; Sprint Development and Release" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" parent="J8Esnln-tezF01G17k3_-1" vertex="1">
-          <mxGeometry x="17" y="103" width="840" height="610" as="geometry"/>
+          <mxGeometry x="7" y="103" width="840" height="610" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-1" value="ITBA / Requestor" style="swimlane;html=1;startSize=20;horizontal=0;" parent="VXwYej4Vx-ypz6HWeeh4-0" vertex="1">
           <mxGeometry y="20" width="840" height="170" as="geometry"/>
@@ -279,17 +279,19 @@
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-5" value="Add/ Update User Story in the Agile Collaboration Tool&lt;br&gt;(Trello, Jira etc)" style="rounded=0;whiteSpace=wrap;html=1;" parent="VXwYej4Vx-ypz6HWeeh4-1" vertex="1">
           <mxGeometry x="210" y="46" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VXwYej4Vx-ypz6HWeeh4-1" source="VXwYej4Vx-ypz6HWeeh4-36" target="VXwYej4Vx-ypz6HWeeh4-37" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VXwYej4Vx-ypz6HWeeh4-1" target="VXwYej4Vx-ypz6HWeeh4-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="472" y="76" as="sourcePoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-36" value="Put US in Product Backlog" style="rounded=0;whiteSpace=wrap;html=1;" parent="VXwYej4Vx-ypz6HWeeh4-1" vertex="1">
-          <mxGeometry x="380" y="46" width="120" height="60" as="geometry"/>
+          <mxGeometry x="368" y="46" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-37" value="Discuss US prioritisation with PO and put in Spring Backlog" style="rounded=0;whiteSpace=wrap;html=1;" parent="VXwYej4Vx-ypz6HWeeh4-1" vertex="1">
-          <mxGeometry x="550" y="46" width="120" height="60" as="geometry"/>
+          <mxGeometry x="522" y="46" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="pWfz06hp5Q7IIxYSFYso-0" value="Include&amp;nbsp;System Design (Product Level) on IS aspect" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="VXwYej4Vx-ypz6HWeeh4-1" vertex="1">
-          <mxGeometry x="540" y="20" width="290" height="20" as="geometry"/>
+          <mxGeometry x="512" y="20" width="290" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-7" value="Dev Team" style="swimlane;html=1;startSize=20;horizontal=0;" parent="VXwYej4Vx-ypz6HWeeh4-0" vertex="1">
           <mxGeometry y="190" width="840" height="120" as="geometry"/>
@@ -310,25 +312,27 @@
           <mxGeometry x="350" y="30" width="90" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-42" value="Implementation / Release" style="rounded=0;whiteSpace=wrap;html=1;" parent="VXwYej4Vx-ypz6HWeeh4-7" vertex="1">
-          <mxGeometry x="740" y="30" width="90" height="60" as="geometry"/>
+          <mxGeometry x="712" y="30" width="90" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VXwYej4Vx-ypz6HWeeh4-7" source="VXwYej4Vx-ypz6HWeeh4-44" target="VXwYej4Vx-ypz6HWeeh4-42" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-44" value="Push to Release Backlog" style="rounded=0;whiteSpace=wrap;html=1;" parent="VXwYej4Vx-ypz6HWeeh4-7" vertex="1">
-          <mxGeometry x="590" y="30" width="100" height="60" as="geometry"/>
+          <mxGeometry x="562" y="30" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-17" value="Requestor / User" style="swimlane;html=1;startSize=20;horizontal=0;" parent="VXwYej4Vx-ypz6HWeeh4-0" vertex="1">
           <mxGeometry y="310" width="840" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VXwYej4Vx-ypz6HWeeh4-17" source="VXwYej4Vx-ypz6HWeeh4-23" target="VXwYej4Vx-ypz6HWeeh4-24" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VXwYej4Vx-ypz6HWeeh4-17" target="VXwYej4Vx-ypz6HWeeh4-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492" y="60" as="sourcePoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-23" value="UAT Testing" style="rounded=0;whiteSpace=wrap;html=1;" parent="VXwYej4Vx-ypz6HWeeh4-17" vertex="1">
           <mxGeometry x="430" y="30" width="90" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-24" value="UAT Sign Off" style="rounded=0;whiteSpace=wrap;html=1;" parent="VXwYej4Vx-ypz6HWeeh4-17" vertex="1">
-          <mxGeometry x="590" y="30" width="100" height="60" as="geometry"/>
+          <mxGeometry x="562" y="30" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VXwYej4Vx-ypz6HWeeh4-0" source="VXwYej4Vx-ypz6HWeeh4-37" target="VXwYej4Vx-ypz6HWeeh4-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -353,7 +357,7 @@
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="VXwYej4Vx-ypz6HWeeh4-0" source="VXwYej4Vx-ypz6HWeeh4-42" target="VXwYej4Vx-ypz6HWeeh4-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="785" y="96"/>
+              <mxPoint x="757" y="96"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -391,13 +395,13 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-33" value="Agile OCM" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" parent="J8Esnln-tezF01G17k3_-1" vertex="1">
-          <mxGeometry x="10" y="30" width="80" height="20" as="geometry"/>
+          <mxGeometry y="30" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-34" value="&lt;span style=&quot;font-weight: bold&quot;&gt;Requirement Gathering &amp;amp; Sprint Development and Release&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="J8Esnln-tezF01G17k3_-1" vertex="1">
-          <mxGeometry x="10" y="50" width="350" height="20" as="geometry"/>
+          <mxGeometry y="50" width="350" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-35" value="To Be" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" parent="J8Esnln-tezF01G17k3_-1" vertex="1">
-          <mxGeometry x="10" y="72" width="50" height="20" as="geometry"/>
+          <mxGeometry y="72" width="50" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
