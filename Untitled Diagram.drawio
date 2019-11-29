@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-29T00:06:18.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="Y9FXGccGQ_sE9E2H_Icp" version="12.3.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-29T00:08:20.721Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="EETDymFWbbfyySGCyQ_S" version="12.3.3" type="github" pages="2">
   <diagram id="tEUZ7eTgIlQmSOjJ-7Xw" name="Page-1">
     <mxGraphModel dx="1026" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,6 +145,12 @@
         </mxCell>
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-9" value="SM Estimate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-7">
           <mxGeometry x="75" y="30" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ec0-ryW4HG9SLYHXsrlI-18" value="Discuss with Rajesh for some suggestion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-7">
+          <mxGeometry x="470" y="30" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ec0-ryW4HG9SLYHXsrlI-19" value="Communicate to Top Management for protocol with PO/ Scrummaster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-7">
+          <mxGeometry x="620" y="30" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="l15D3FRKEXwRDgA3ZpKB-17" value="Dev Team" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="l15D3FRKEXwRDgA3ZpKB-0">
           <mxGeometry y="260" width="760" height="120" as="geometry"/>
