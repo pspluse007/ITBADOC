@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-29T00:22:06.574Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="L-2gYDBZqte6E1KPq9cQ" version="12.3.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-29T00:27:33.366Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="aKBHh_3-X7IklxWOrKWs" version="12.3.3" type="github" pages="3">
   <diagram id="tEUZ7eTgIlQmSOjJ-7Xw" name="Page-1">
     <mxGraphModel dx="1026" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -270,11 +270,23 @@
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-1" source="VXwYej4Vx-ypz6HWeeh4-3" target="VXwYej4Vx-ypz6HWeeh4-5">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-3" value="Create &amp;nbsp;Requirement in User Story" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-1">
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-3" value="Create &amp;nbsp;Requirement Details in User Story (US)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-1">
           <mxGeometry x="50" y="46" width="100" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-5" value="Store/ Update User Story in the Agile Collaboration Tool&lt;br&gt;(Trello, Jira etc)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-1">
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-1" source="VXwYej4Vx-ypz6HWeeh4-5" target="VXwYej4Vx-ypz6HWeeh4-36">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-5" value="Add/ Update User Story in the Agile Collaboration Tool&lt;br&gt;(Trello, Jira etc)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-1">
           <mxGeometry x="210" y="46" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-1" source="VXwYej4Vx-ypz6HWeeh4-36" target="VXwYej4Vx-ypz6HWeeh4-37">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-36" value="Put US in Product Backlog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-1">
+          <mxGeometry x="380" y="46" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-37" value="Discuss US prioritisation with PO and put in Spring Backlog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-1">
+          <mxGeometry x="550" y="46" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-7" value="Dev Team" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-0">
           <mxGeometry y="190" width="760" height="120" as="geometry"/>
@@ -282,52 +294,33 @@
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-7" source="VXwYej4Vx-ypz6HWeeh4-9" target="VXwYej4Vx-ypz6HWeeh4-11">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-9" value="Ask User for Product Backlog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-7">
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-9" value="Start Sprint Development" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-7">
           <mxGeometry x="50" y="30" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-7" source="VXwYej4Vx-ypz6HWeeh4-11" target="VXwYej4Vx-ypz6HWeeh4-13">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-11" value="PO Approve Product Backlog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-7">
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-11" value="Update &quot;DEV DONE&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-7">
           <mxGeometry x="190" y="30" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-7" source="VXwYej4Vx-ypz6HWeeh4-13" target="VXwYej4Vx-ypz6HWeeh4-15">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-13" value="IT Filter and Estimate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-7">
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-13" value="Push to Test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-7">
           <mxGeometry x="350" y="30" width="90" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-7" source="VXwYej4Vx-ypz6HWeeh4-15" target="VXwYej4Vx-ypz6HWeeh4-16">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-15" value="Agree on Sprint Backlog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-7">
-          <mxGeometry x="490" y="30" width="100" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-16" value="Raise ITSR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-7">
-          <mxGeometry x="640" y="30" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-17" value="Requestor / User" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-0">
           <mxGeometry y="310" width="760" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-17" source="VXwYej4Vx-ypz6HWeeh4-19" target="VXwYej4Vx-ypz6HWeeh4-21">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-19" value="New PC Case/ Email/ Verbal Request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-17">
-          <mxGeometry x="50" y="30" width="100" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-17" source="VXwYej4Vx-ypz6HWeeh4-21" target="VXwYej4Vx-ypz6HWeeh4-23">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-21" value="Discuss with PO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-17">
-          <mxGeometry x="190" y="30" width="120" height="60" as="geometry"/>
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-17" target="VXwYej4Vx-ypz6HWeeh4-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="60" as="sourcePoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-17" source="VXwYej4Vx-ypz6HWeeh4-23" target="VXwYej4Vx-ypz6HWeeh4-24">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-23" value="Raise ITSR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-17">
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-23" value="UAT Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-17">
           <mxGeometry x="350" y="30" width="90" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-24" value="Start Agile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-17">
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-24" value="UAT Sign Off" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-17">
           <mxGeometry x="490" y="30" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-25" value="Pen Test Vendor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-0">
@@ -353,6 +346,14 @@
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-32" value="Submit ITSR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-25">
           <mxGeometry x="490" y="46" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-0" source="VXwYej4Vx-ypz6HWeeh4-37" target="VXwYej4Vx-ypz6HWeeh4-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="150"/>
+              <mxPoint x="100" y="150"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-33" value="Agile OCM" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1" vertex="1" parent="J8Esnln-tezF01G17k3_-1">
           <mxGeometry x="23" y="27" width="80" height="20" as="geometry"/>
