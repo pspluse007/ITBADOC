@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-29T00:31:55.833Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="_euBZtjC1t4DAU1Q0T5p" version="12.3.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-29T00:32:46.527Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="qhrwpd-t13TEaCSx--6t" version="12.3.3" type="github" pages="3">
   <diagram id="tEUZ7eTgIlQmSOjJ-7Xw" name="Page-1">
     <mxGraphModel dx="1026" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,26 +330,13 @@
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-25" value="Pen Test Vendor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-0">
           <mxGeometry y="430" width="840" height="180" as="geometry"/>
         </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-25" source="VXwYej4Vx-ypz6HWeeh4-27" target="VXwYej4Vx-ypz6HWeeh4-29">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="VXwYej4Vx-ypz6HWeeh4-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-25" source="VXwYej4Vx-ypz6HWeeh4-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="76" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-27" value="Brainstorming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-25">
-          <mxGeometry x="50" y="46" width="100" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-25" source="VXwYej4Vx-ypz6HWeeh4-29" target="VXwYej4Vx-ypz6HWeeh4-31">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-29" value="Get Estimate from IT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-25">
-          <mxGeometry x="190" y="46" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-25" source="VXwYej4Vx-ypz6HWeeh4-31" target="VXwYej4Vx-ypz6HWeeh4-32">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-31" value="PO will decide for Product Backlog priority" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-25">
-          <mxGeometry x="350" y="46" width="90" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="VXwYej4Vx-ypz6HWeeh4-32" value="Submit ITSR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VXwYej4Vx-ypz6HWeeh4-25">
-          <mxGeometry x="490" y="46" width="100" height="60" as="geometry"/>
+          <mxGeometry x="490" y="54" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VXwYej4Vx-ypz6HWeeh4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwYej4Vx-ypz6HWeeh4-0" source="VXwYej4Vx-ypz6HWeeh4-37" target="VXwYej4Vx-ypz6HWeeh4-9">
           <mxGeometry relative="1" as="geometry">
